@@ -1,4 +1,6 @@
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<p align="center">
+
+<img src="https://i.giphy.com/RThN0hOS2GO4M.gif" />
 
 
 
@@ -9,3 +11,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omskka&layout=compact&theme=tokyonight)
+
+  </p>
