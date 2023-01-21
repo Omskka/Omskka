@@ -13,7 +13,6 @@
     <img alt="Hanumat Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Omskka&theme=tokyo-night&hide_border=true" />
   </a>
 </p>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld6240if00350fma8f03llwf/stats?cursusId=21&coalitionId=198" alt="okirca's 42 stats" /></a>
 ## Skill Badges
 
 <!-- skills -->
