@@ -6,15 +6,6 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omskka&count_private=true&theme=tokyonight&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=swift) | My most used programming languages for my public GitHub repositories. C is my most used programming language. |
 | ![Omskka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omskka&show_icons=true&count_private=true&theme=tokyonight&bg_color=0,000000,130F40&layout=compact&border_radius=10) | Total stars earned by my repositories, total commits this year, total PR, total issues, and total repositories that I contributed to last year. |
 
-## Activity
-<!-- activity graph -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="Hanumat Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Omskka&theme=tokyo-night&hide_border=true" />
-  </a>
-</p>
-
-
 ## Skill Badges
 
 <!-- skills -->
