@@ -11,6 +11,6 @@
 <!-- skills -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,c,cpp,py,css,html" />
+    <img src="https://skillicons.dev/icons?i=git,java,c,cpp,py,css,html,flutter" />
   </a>
 </p>
